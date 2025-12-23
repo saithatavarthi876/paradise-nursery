@@ -22,8 +22,8 @@
   "homepage": "https://github.com/saithatavarthi876/paradise-nursery#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.11.0",
     "react-scripts": "^5.0.1"
